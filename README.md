@@ -9,8 +9,16 @@ Assumptions:
 
 ### 1. Create a virtual environment:
 
+For Unix/macOS
+
 ```bash
 python3 -m venv .venv
+```
+
+For Windows
+
+```bash
+py -m venv .venv
 ```
 
 ### 2. Activate the virtual environment:
