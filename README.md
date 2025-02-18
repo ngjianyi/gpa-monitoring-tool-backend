@@ -58,5 +58,5 @@ python3 seed.py
 ### 5. Run the app:
 
 ```bash
-flask run
+python3 -m flask run
 ```
